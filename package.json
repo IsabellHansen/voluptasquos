@@ -1,0 +1,42 @@
+{
+  "name": "voluptasquos",
+  "version": "1.8.0",
+  "description": "Check if a JavaScript environment has a DOM",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsabellHansen/voluptasquos.git"
+  },
+  "author": "BernhardConsidine",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "aut",
+    "dom",
+    "js",
+    "javascript",
+    "env",
+    "environment",
+    "has",
+    "detect",
+    "aperiam"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  },
+  "homepage": "https://github.com/IsabellHansen/voluptasquos.git",
+  "dependencies": {
+    "ataut": "^1.0.0",
+    "natusvoluptatem": "^1.0.0",
+    "necessitatibusveniam": "^1.0.0",
+    "officiiset": "^1.0.0",
+    "quiavoluptatem": "^1.0.0"
+  }
+}
